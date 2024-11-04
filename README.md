@@ -1,5 +1,4 @@
 # hello-world
-t4 23
-
-# went to the cadbury's factory
-# they gave me the choc tour
+# look at me
+# i am updating the readme
+# i feel so sigma!
